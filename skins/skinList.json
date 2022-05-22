@@ -1,0 +1,11 @@
+{
+  "skinConfig": [
+    {
+      "skinName": "doge",
+      "cellColor": "b5995c"
+    },{
+      "skinName": "shinon",
+      "cellColor": "000000"
+    }
+  ]
+}
