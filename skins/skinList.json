@@ -6,6 +6,9 @@
     },{
       "skinName": "shinon",
       "cellColor": "000000"
+    },{
+      "skinName": "bot",
+      "cellColor": "#00ffee"
     }
   ]
 }
